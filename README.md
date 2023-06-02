@@ -9,7 +9,9 @@ The Project Name is a web application built using React and Vite. The goal of th
 ## Features
 
 1.Replicates the home page of Instagram's web version
+
 2.Provides a responsive and user-friendly interface
+
 3.Utilizes React components for modular and reusable code
 
 
