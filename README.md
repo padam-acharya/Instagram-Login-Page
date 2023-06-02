@@ -30,5 +30,6 @@ This project utilizes the following dependencies:
 
 1. React: https://react.dev/
 2. Vite: https://vitejs.dev/
+
 Please refer to their documentation for more information on these technologies.
 
