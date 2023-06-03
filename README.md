@@ -4,7 +4,7 @@ This is the README file for the Instagram Login Page. It provides an overview of
 
 ## Description
 
-The Project Name is a web application built using React and Vite. The goal of this project is to replicate the home page of Instagram's web version. This is a beginner-level project to practice web development skills using React and explore the Vite build tool.
+This is a web application built using React and Vite. The goal of this project is to replicate the home page of Instagram's web version. This is a beginner-level project to practice web development skills using React and explore the Vite build tool.
 
 ## Features
 
