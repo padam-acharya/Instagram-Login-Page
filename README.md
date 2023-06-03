@@ -23,7 +23,7 @@ To run this project locally, please follow these steps:
 2. Navigate to the project directory.
 3. Install dependencies: npm install
 4. Start the development server: npm run dev
-5. Open your web browser and visit http://localhost:3000 to see the application
+5. Open your web browser and visit http://localhost:5173 to see the application
 
 
 ## Dependencies
